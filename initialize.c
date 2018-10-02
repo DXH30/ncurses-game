@@ -1,3 +1,8 @@
+/*
+ * Simple Game without everything
+ * Author : Didik Hadumi Setiaji
+ * Language : C + NCurses
+ */
 #include <curses.h>
 #include <stdio.h>
 #include <stdlib.h>
